@@ -1,0 +1,11 @@
+.projectsHeading {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#searchBar {
+    margin-top: 10px;
+    padding-top: 10px;
+}
